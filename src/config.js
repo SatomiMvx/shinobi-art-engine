@@ -8,9 +8,9 @@ import { NETWORK } from '../constants/network.js';
 const network = NETWORK.bch;
 
 // General collection metadata.
-const collectionName = "Shinobi"; // Name of your collection.
-const collectionDescription = "Elite digital ninjas, guardians of BCH."; // Description of your collection.
-const namePrefix = "Shinobi"; // Prefix for the NFT name.
+const collectionName = "Satomi Chronicles Legends Unbound"; // Name of your collection.
+const collectionDescription = "Enter a mystical world where powerful heroes wield unique abilities in stunning realms. Master your character, uncover secrets, and face epic challenges in a blend of fantasy and cyber-mysticism. Forge your path to legend!"; // Description of your collection.
+const namePrefix = "Satomi"; // Prefix for the NFT name.
 const description = "Elite digital ninja, guardian of BCH."; // NFT description.
 const baseUri = process.env.SHINOBI_BASE_URI || "ipfs://NewUriToReplace/images";
 const baseIconUri = process.env.SHINOBI_BASE_ICON_URI || "ipfs://NewUriToReplace/icons";
